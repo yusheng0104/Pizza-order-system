@@ -1,4 +1,4 @@
-# Project 3
+# Pizza ordering app
 
 In this project, a pizza ordering application was created.
 1. Register and login
